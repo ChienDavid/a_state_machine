@@ -1,8 +1,8 @@
 # A task of implementing Fail Safe Function using Finite state machine
 
-This implementation uses Python language.
+This repository uses Python language.
 
-This repository is built step by step:
+This implementation is built step by step:
 - Create a general state machine
 - Do the task:
     + Create a state machine
