@@ -44,5 +44,6 @@ def main():
     msg = "something"
     fsf.execute(msg)
 
-
+if __name__=="__main__":
+    main()
 
